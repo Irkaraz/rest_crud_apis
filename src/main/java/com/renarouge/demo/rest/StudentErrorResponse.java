@@ -30,7 +30,7 @@ public class StudentErrorResponse {
         this.message = message;
     }
 
-    public long getTimeStamp(long l) {
+    public long getTimeStamp() {
         return timeStamp;
     }
 
